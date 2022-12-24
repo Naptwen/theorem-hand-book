@@ -1,6 +1,3 @@
-# If you would like to crawl GitHub contact us via https://support.github.com?tags=dotcom-robots
-# We also provide an extensive API: https://docs.github.com
-
 User-agent: *
 
 Disallow: /*/pulse
